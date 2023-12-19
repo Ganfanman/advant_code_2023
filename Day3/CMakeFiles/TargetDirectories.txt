@@ -1,0 +1,3 @@
+/Users/rx.j/Documents/C++/advant_code_2023/Day3/CMakeFiles/main.dir
+/Users/rx.j/Documents/C++/advant_code_2023/Day3/CMakeFiles/edit_cache.dir
+/Users/rx.j/Documents/C++/advant_code_2023/Day3/CMakeFiles/rebuild_cache.dir
